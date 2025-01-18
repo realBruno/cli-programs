@@ -1,2 +1,2 @@
 # cli-programs
-Replicate of a few Unix command-line programs, such as cat, touch, grep, etc.
+Replica of a few UNIX command-line programs, such as cat, touch, grep, etc.
